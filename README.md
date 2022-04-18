@@ -5,7 +5,7 @@ NFT client boilerplate for EVM compatible blockchains. It includes:
 - Landing page with basic info + visuals of the collection
 - The ability to connect your wallet and mint an nft
 
-A similar setup is used for the creation of the collection [KMB](www.kmb.world)
+A similar setup is used for the creation of the collection [KMB vs Vladimir](https://www.kmb.world/)
 
 # Configure smart contract
 
