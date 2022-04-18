@@ -1,0 +1,88 @@
+@font-face {
+  font-family: "Inter";
+  font-weight: 600;
+  font-style: normal;
+  src: local("Inter"), url("Inter-Bold.ttf") format("opentype");
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 700;
+  font-style: normal;
+  src: local("Inter"), url("Inter-ExtraBold.ttf") format("opentype");
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 800;
+  font-style: normal;
+  src: local("Inter"), url("Inter-SemiBold.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "IBMPlexSans";
+  font-weight: 700;
+  font-style: normal;
+  src: local("IBMPlexSans"), url("IBMPlexSans-Bold.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "IBMPlexSans";
+  font-weight: 700;
+  font-style: italic;
+  src: local("IBMPlexSans"), url("IBMPlexSans-BoldItalic.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "IBMPlexSans";
+  font-weight: 600;
+  font-style: normal;
+  src: local("IBMPlexSans"), url("IBMPlexSans-SemiBold.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "IBMPlexSans";
+  font-weight: 600;
+  font-style: italic;
+  src: local("IBMPlexSans"), url("IBMPlexSans-SemiBoldItalic.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "IBMPlexSans";
+  font-weight: 500;
+  font-style: normal;
+  src: local("IBMPlexSans"), url("IBMPlexSans-Medium.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "IBMPlexSans";
+  font-weight: 500;
+  font-style: italic;
+  src: local("IBMPlexSans"), url("IBMPlexSans-MediumItalic.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "IBMPlexSans";
+  font-weight: 400;
+  font-style: normal;
+  src: local("IBMPlexSans"), url("IBMPlexSans-Regular.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "IBMPlexSans";
+  font-weight: 300;
+  font-style: normal;
+  src: local("IBMPlexSans"), url("IBMPlexSans-Light.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "IBMPlexSans";
+  font-weight: 300;
+  font-style: normal;
+  src: local("IBMPlexSans"), url("IBMPlexSans-LightItalic.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "IBMPlexMono";
+  font-weight: 400;
+  font-style: normal;
+  src: local("IBMPlexMono"), url("IBMPlexMono-Regular.ttf") format("opentype");
+}
